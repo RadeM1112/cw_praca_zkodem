@@ -1,6 +1,6 @@
 # cw_praca_zkodem
 
-Dlaczego README.md jest ważne w projekcie?
+Dlaczego README.md jest ważne w projekcie?.
 
 Odpowiedz jest prosta, dla osoby, która ma pierwszą styczność z danym kodem/projektem/aplikacją jest to swego rodzaju instrukcja, która pozwala uniknąć błędów oraz lepiej zrozumięć jego istote.
 
