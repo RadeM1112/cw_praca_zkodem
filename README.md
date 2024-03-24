@@ -5,7 +5,10 @@ Dlaczego README.md jest ważne w projekcie?
 Odpowiedz jest prosta, dla osoby, która ma pierwszą styczność z danym kodem/projektem/aplikacją jest to swego rodzaju instrukcja, która pozwala uniknąć błędów oraz lepiej zrozumięć jego istote.
 
 Instrukcja: 
-Potrzebne rzeczy: zainstalowany python, flask.
+Potrzebne rzeczy: zainstalowany python, flask, pylint
+
+Aby zainstalowac biblioteke: pip install –r requirements.txt
+Aby uruchomić flaska:  python –m flask run
 
 1. Będąc w docelowym folderu odpalić: nano makefile. 
 2. Określić nazwę swojej metody np. check 
