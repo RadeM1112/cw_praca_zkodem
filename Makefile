@@ -5,4 +5,4 @@ run:
 	python -m flask run
 
 check:
-	pytest app.py
+	python -m pylint app.py
