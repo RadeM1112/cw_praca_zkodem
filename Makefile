@@ -1,4 +1,4 @@
 test:
-   pip install –r requirements.txt
+   pytest test.py
 run: test
-  python –m flask run
+   flask run
