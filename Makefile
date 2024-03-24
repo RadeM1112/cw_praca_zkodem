@@ -1,4 +1,5 @@
+
 test:
-    pip install –r requirements.txt
-run: test
-    flask run
+    	pip install –r requirements.txt
+run:
+    	python -m flask run
